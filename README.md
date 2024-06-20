@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm a full stack developer with experience in React, NodeJS, MongoDB, AWS Amplify and PostgreSQL.<br><br>🚀 I'm passionate about creating responsive and intuitive web applications that can solve real-world problems. I'm constantly learning and exploring new technologies to enhance my skills and knowledge.<br><br>💻 My tech stack includes ReactJS for building robust and dynamic front-end interfaces, NodeJS for back-end development, and MongoDB and PostgreSQL for database management. I also have experience working with ExpressJS, Redux, Bootstrap, and Material UI.<br><br>👨‍💻 In my previous projects, I have worked on creating RESTful APIs, integrating third-party APIs, implementing authentication and authorization, and building complex database schemas.<br><br>📈 I'm excited about the opportunities to grow and learn as a developer, and I'm eager to collaborate with like-minded individuals to create amazing products.
 
+![](https://komarev.com/ghpvc/?username=eddiemuhoro)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhoroedwin/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CodesEddie) 
