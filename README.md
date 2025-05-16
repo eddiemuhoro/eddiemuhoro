@@ -1,5 +1,25 @@
 # 💫 About Me:
-👋 Hi there! I'm a full stack developer with experience in React, NodeJS, MongoDB, AWS Amplify and PostgreSQL.<br><br>🚀 I'm passionate about creating responsive and intuitive web applications that can solve real-world problems. I'm constantly learning and exploring new technologies to enhance my skills and knowledge.<br><br>💻 My tech stack includes ReactJS for building robust and dynamic front-end interfaces, NodeJS for back-end development, and MongoDB and PostgreSQL for database management. I also have experience working with ExpressJS, Redux, Bootstrap, and Material UI.<br><br>👨‍💻 In my previous projects, I have worked on creating RESTful APIs, integrating third-party APIs, implementing authentication and authorization, and building complex database schemas.<br><br>📈 I'm excited about the opportunities to grow and learn as a developer, and I'm eager to collaborate with like-minded individuals to create amazing products.
+👋 Hi there! I'm a full stack developer with experience in React, NodeJS, MongoDB, AWS Amplify, PostgreSQL, and Python (Django + Django REST Framework).<br><br>
+
+🚀 I'm passionate about creating responsive and intuitive web applications that solve real-world problems. I'm constantly learning and exploring new technologies to enhance my skills and knowledge.<br><br>
+
+💻 My tech stack includes:
+
+Frontend: ReactJS, Redux, Bootstrap, Material UI
+
+Backend: NodeJS with Express, Django, Django REST Framework
+
+Databases: MongoDB, PostgreSQL
+
+Cloud/DevOps: AWS Amplify, Heroku, Vercel
+
+Other Skills: RESTful API development, authentication/authorization, third-party API integration, and complex schema design.<br><br>
+
+🐍 I actively build REST APIs using Django and DRF, leveraging class-based views (CBVs), serializers, and webhook integrations (e.g., Stripe) to deliver modular, scalable backend services.<br><br>
+
+👨‍💻 In my previous projects, I have implemented full-stack features from scratch—ranging from real-time applications to payment gateways, focusing on clean architecture and developer-friendly design.<br><br>
+
+📈 I'm excited about opportunities to grow and collaborate with like-minded developers to build amazing products and solve challenging problems together.
 
 ![](https://komarev.com/ghpvc/?username=eddiemuhoro) since June 2024.
 
