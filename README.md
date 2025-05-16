@@ -1,25 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a full stack developer with experience in React, NodeJS, MongoDB, AWS Amplify, PostgreSQL, and Python (Django + Django REST Framework).<br><br>
-
-🚀 I'm passionate about creating responsive and intuitive web applications that solve real-world problems. I'm constantly learning and exploring new technologies to enhance my skills and knowledge.<br><br>
-
-💻 My tech stack includes:
-
-Frontend: ReactJS, Redux, Bootstrap, Material UI
-
-Backend: NodeJS with Express, Django, Django REST Framework
-
-Databases: MongoDB, PostgreSQL
-
-Cloud/DevOps: AWS Amplify, Heroku, Vercel
-
-Other Skills: RESTful API development, authentication/authorization, third-party API integration, and complex schema design.<br><br>
-
-🐍 I actively build REST APIs using Django and DRF, leveraging class-based views (CBVs), serializers, and webhook integrations (e.g., Stripe) to deliver modular, scalable backend services.<br><br>
-
-👨‍💻 In my previous projects, I have implemented full-stack features from scratch—ranging from real-time applications to payment gateways, focusing on clean architecture and developer-friendly design.<br><br>
-
-📈 I'm excited about opportunities to grow and collaborate with like-minded developers to build amazing products and solve challenging problems together.
+👋 Hi there! I'm a full stack developer with experience in React, NodeJS, MongoDB, AWS Amplify, PostgreSQL, and Python (Django + Django REST Framework).<br><br>🚀 I'm passionate about creating responsive and intuitive web applications that solve real-world problems. I'm always learning and exploring new technologies to improve my skills.<br><br>💻 My tech stack includes ReactJS for dynamic front-end interfaces, NodeJS and Django for back-end development, and MongoDB and PostgreSQL for database management. I also work with ExpressJS, Redux, Bootstrap, Material UI, and DRF for building RESTful APIs.<br><br>👨‍💻 I've implemented authentication, third-party API integrations, Stripe payments, and complex database schemas in past projects.<br><br>📈 I'm excited to grow as a developer and collaborate with others to build impactful products.
 
 ![](https://komarev.com/ghpvc/?username=eddiemuhoro) since June 2024.
 
